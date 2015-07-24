@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GrTemplate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text_field">TEST</string>
+    <string name="title_activity_control_port_client">ControlPortClient</string>
+</resources>

@@ -1,0 +1,17 @@
+GrTemplate is a minimal Android application that initializes and starts
+a very simple GNU Radio flowgraph. This project is intended to be an
+instructive template for people to use when building their own GNU
+Radio based Android apps. The settings and configuration files in this
+project are the basic boiler-plate necessary to compile and run an
+application with GNU Radio.
+
+Follow the steps for building the dependencies, GNU Radio, and the
+walk-through for building a basic app on the GNU Radio on Android
+webpage:
+
+- http://gnuradio.org/redmine/projects/gnuradio/wiki/Android
+
+If evolving this app, the app name is GrTemplate, and the main
+activity is GrTemplate.java. The organization domain is
+gnuradio.org. All of these will need to be changed to provide the
+correct information to your app.
